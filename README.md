@@ -15,11 +15,12 @@ advantages of PCA:
 5. Low sensitivity towards the noise.
 6. Removes redundant variables
 
+
 3. What are C++ Libraries / Frameworks for AI?
-1. TensorFlow
+* TensorFlow
 TensorFlow is a famous deep learning library created by Google with its environment of devices, libraries, community resources for machine learning. This library has a complete, adaptable environment of devices, libraries, and local area assets that lets analysts and engineers construct and convey ML-fueled applications without any problem. Regardless of whether you’re a specialist or an amateur, TensorFlow is an end-to-end platform that makes it easy for you to build and deploy ML models.
  
-2. Caffe from Berkeley
+ Caffe from Berkeley
 Convolutional architecture for fast feature embedding or Caffe is written in C++ for a deep learning structure, has been created by the Berkeley Vision and Learning Center. The provisions of this library incorporate expressive engineering, extensible code, speed, and a huge local area which fosters dynamic advancement in exploration and industry arrangements.
  
 Microsoft Cognitive Toolkit (CNTK)
