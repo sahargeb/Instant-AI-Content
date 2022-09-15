@@ -15,7 +15,7 @@ advantages of PCA:
 6. Removes redundant variables
 
 
-3. What are C++ Libraries / Frameworks for AI?
+What are C++ Libraries / Frameworks for AI?
 * TensorFlow
 TensorFlow is a famous deep learning library created by Google with its environment of devices, libraries, community resources for machine learning. This library has a complete, adaptable environment of devices, libraries, and local area assets that lets analysts and engineers construct and convey ML-fueled applications without any problem. Regardless of whether you’re a specialist or an amateur, TensorFlow is an end-to-end platform that makes it easy for you to build and deploy ML models.
  
