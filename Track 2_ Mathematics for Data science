@@ -1,19 +1,16 @@
-]
 
-### Session content:
-
-- [What is statistic?](#What-is-statistic)
-
-- [How to choose a sample from a population?](#How-to-choose-a-sample-from-a-population)
-
-- [Measures of Central Tendency](#Measures-of-Central-Tendency)
-
-- [Notebooks](#Notebooks)
-
-
-
-### Notes:
-
-#### What is statistic?
-
-- **Statistics** is the study a
+Tasks:
+1. How do you convert nonlinear to linear equations?
+The standard form of a linear equation is Ax+By=C. To change an equation written in slope-intercept form (y=mx+b) to standard form, you must get the x and y on the same side of the equal sign and the constant on the other side. Use inverse operations to move terms.
+2. What is PCA and how it works? 
+Principal Component Analysis is primarily used for dimensionality reduction in domains like facial recognition, computer vision, image compression, and finding patterns in the field of finance, psychology, data mining, etc. PCA is used to extract the important information out of the dataset by combining the redundant features. These features are expressed in the form of new variables termed principal components. Since the visualization of the features in the dataset is limited, we can also use PCA to reduce the dimensionality of the dataset to 2 or 3 principal components and then visualize to get a better insight into it. PCA method is a part of the unsupervised�machine learning technique.�
+advantages of PCA:
+1. It speeds up the learning algorithm.
+2. Increases Efficiency due to lower dimensions.
+3. It reduces the space required to store the data.
+4. Data Visualization
+5. Low sensitivity towards the noise.
+6. Removes redundant variables
+3. What are C++ Libraries / Frameworks for AI?
+ TensorFlow
+TensorFlow is a famous�deep learning�library created by Google with its environment of devices, libraries, community resources for machine learning. This library has a complete, adaptable environment of devices, libraries, and local area assets that lets analysts and engineers construct and convey ML-fueled applications without any problem. Regardless of whether you�re a specialist or an amateur, TensorFlow is an end-to-end platform that makes it easy for you to build and deploy ML models.
