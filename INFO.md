@@ -1,57 +1,56 @@
-`Date`: 11 Sep 22 Session No. 01
+`Date`: 14 Sep 22 Session No. 02
 
-`Subject`: Introduction | Linear Algebra
+`Subject`: Statistics 
 
-## Session content 
-- Introduction to Equations.
-- Linear Equations.
-- System of Equations.
-- Polynomials.
-- Functions.
+## Session content
+- What is Statistics
+- How to take a sample from Population
+- Types of Data
+- Statistics Fundamentals
 
 ## Notes
-- We use 4 fields of mathematics in AI and Data Science :
-  - Algebra (Linear Algebra is the branch of mathematics concerning linear equations)
-  - Statistics
-  - Probability
-  - Calculus
-  
-- ### Linear Equations
-  - Is an equation that may be put in the form a1X1 + .... +anXn + b=0, where X1 ,..., Xn are the variables, and a1, ..., an are the coefficients, which are often real numbers. To yield a meaningful equation, the coefficients are required to not all be zero.
-  - Eamples of Linear equations : 
-    - graph in 2 dimentions :
+- Ststistics
+  - Statistics is the study of the collection, analysis, interpretation, presentation, and organization of data. In other words, it is a mathematical discipline to collect, summarize data.
+  - By using statistics, we can get
+    - Information ----> Conclusion
+    - Insights  ------> Reading between lines
+    - Don't trust any statistics you didn't fake yourself
     
-       <img src="https://tse4.mm.bing.net/th?id=OIP.4rf4VqzficU8Q_AZUp_hmQHaE8&pid=Api&P=0" width="350">
-  
-    - graph in 3 dimentions :
-    
-       <img src="https://i.ytimg.com/vi/IWgnjjUCjCY/hqdefault.jpg" width="350">
-    
-    
-  - We can represent a linear equation in more than 3 dimentions by using the `String Theory`.
-   - about String Theory check [String Theory](https://www.youtube.com/watch?v=5IoOkp5bOds).
-   
-- ### Nonlinear Equations   
- - check [What Is a Non-Linear Equation?](https://www.youtube.com/watch?v=GHangQlVe-E)     
+- A samplr from Population
+ - Define the population
+ - Define the sampling size
+   - In the worst case (30-40%) max
+   - Diversity in the sample
+ - Repeat the experiment and take the average
+ - Collect data from your sample
  
-- ### System of Equations :
-```
-3a + 4b + 5c = 0
-2a - 3b + 7c = 8
-5a - 13b + c = 11
-```
-  - To solve these equations, we find value for a ,b and c which solve the equations.
-  - Equations may have no solution, exactly one solution or multible solutions. 
-  - AI can generalize relations between data and optimize the solution easily.
-  
-- Nonlinear Algebra is more complicated than Linear Algebra.
-- The greater the number of dimensions, the greater the Overfitting occures
+- Types of Data
+  - Qualitative Data
+    - This type of data is categorical - it is used to categorize or identify the entity being observed. Sometimes you'll see features of this type described as factors
+    - Nominal Data
+    - Ordinal Data
+  - Quantitative Data 
+    - This type of data indicates some kind of quantity or measurement
+    - Discrete Data
+    - Continuous Data
+    
+- Statistics Fundamentals   
+  - Analyzing Data Distribution
+  - Measures of Central Tendency
+  - Mean
+    - A common way to define the central value is to use the mean, often called the average. This is calculated as the sum of the values in the dataset, divided by the number of observations in the dataset. When the dataset consists of the full population, the mean is represented by the Greek symbol μ (mu).
+  - Median
+    - To calculate the median, we need to sort the values into ascending order and then find the middle-most value. When there are an odd number of observations, you can find the position of the median value using this formula (where n is the number of observations)
+  - Mode
+    - Another related statistic is the mode, which indicates the most frequently occurring value.
+  - Distribution and Density
+    - To find the center, we can start to explore how the data is distributed around it.     
+  - Variance and Standard Deviation
+    - To understand the spread of our data distribution using the range, percentiles, and quartiles; and we've seen the effect of outliers on the distribution.
 
-## Tasks 
-- How to convert Non linear Equations to Linear Form 
-- What is PCA and how it works
-- What are C++ Libraries / Frameworks for AI
+## Notebook
+- [Notebook1 (Data and Data Visualization)](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Statistics%20and%20Probability%20by%20Hiren/04-01-Data%20and%20Visualization.ipynb)
+- [Notebook2 (Statistics Fundamentals)](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Statistics%20and%20Probability%20by%20Hiren/04-02-Statistics%20Fundamentals.ipynb)
 
-
-  
-  
+## Tasks
+    
